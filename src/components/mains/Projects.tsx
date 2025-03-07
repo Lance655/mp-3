@@ -1,4 +1,3 @@
-import styled from 'styled-components';
 import { StyledMainContentCommon } from "../common-styles/StyledMainContentCommon.tsx";
 import { StyledMainLICommon } from "../common-styles/StyledMainLICommon.tsx";
 import { StyledMainListsCommon } from "../common-styles/StyledMainListsCommon.tsx";

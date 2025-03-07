@@ -1,7 +1,6 @@
 import styled from 'styled-components';
-import {useParams} from 'react-router-dom';
 import usePageTitle from "../../custom-hooks/usePageTitle.ts";
-import { StyledMainContentCommon } from "../common-styles/StyledMainContentCommon.tsx";
+// import { StyledMainContentCommon } from "../common-styles/StyledMainContentCommon.tsx";
 import { StyledH2Common } from "../common-styles/StyledH2Common.tsx";
 import { StyledH3Common } from "../common-styles/StyledH3Common.tsx";
 
@@ -35,18 +34,18 @@ const StyledImage = styled.img`
         margin: 1vh auto;
 `;
 
-const StyledMain = styled.main`
-    background-color: #eeeeee;
-    padding-left: 5%;
-    padding-right: 5%;
-    padding-bottom: 5%;
-    padding-top: 2%;
-    width: 70%;
-
-    @media screen and (max-width: 750px) {
-        width: 100%;
-    }
-`;
+// const StyledMain = styled.main`
+//     background-color: #eeeeee;
+//     padding-left: 5%;
+//     padding-right: 5%;
+//     padding-bottom: 5%;
+//     padding-top: 2%;
+//     width: 70%;
+//
+//     @media screen and (max-width: 750px) {
+//         width: 100%;
+//     }
+// `;
 
 export function Home() {
 

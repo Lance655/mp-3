@@ -1,4 +1,3 @@
-import styled from "styled-components";
 import usePageTitle from "../../custom-hooks/usePageTitle.ts";
 import { StyledMainContentCommon } from "../common-styles/StyledMainContentCommon.tsx";
 import { StyledMainListsCommon } from "../common-styles/StyledMainListsCommon.tsx";

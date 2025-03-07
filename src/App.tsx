@@ -1,4 +1,3 @@
-import { useState } from 'react'
 import {createBrowserRouter, Route, Routes, RouterProvider} from 'react-router-dom';
 
 import { StyledPageWrapper } from './components/StyledPageWrapper';
